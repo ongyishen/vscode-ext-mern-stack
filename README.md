@@ -1,41 +1,49 @@
 # vscode-ext-mern-stack
 Great VSCode Extensions for MERN Stack Development
 
-[Mern Snippets](https://marketplace.visualstudio.com/items?itemName=devzstudio.mern-snippets)
+## Donation
 
-[Mongo Snippets for Node.js](https://marketplace.visualstudio.com/items?itemName=roerohan.mongo-snippets-for-node-js)
+If this project helped you reduce time to develop, please consider buying me a cup of coffee :)
 
-[ExpressJS 4 Snippets ](https://marketplace.visualstudio.com/items?itemName=gurayyarar.expressjs-4-snippets)
+<a href="https://www.buymeacoffee.com/ongyishen" 
+target="_blank">
+<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" 
+alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-[Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
 
-[VSCode ReactJS Code Snippets Cheat Sheet](https://cheatography.com/mend0za/cheat-sheets/vscode-reactjs-code-snippets/)
 
-[ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+- [Mern Snippets](https://marketplace.visualstudio.com/items?itemName=devzstudio.mern-snippets)
 
-[Fullstack React/React Native snippets](https://marketplace.visualstudio.com/items?itemName=walter-ribeiro.full-react-snippets)
+- [Mongo Snippets for Node.js](https://marketplace.visualstudio.com/items?itemName=roerohan.mongo-snippets-for-node-js)
 
-[node-snippets](https://marketplace.visualstudio.com/items?itemName=chris-noring.node-snippets)
+- [ExpressJS 4 Snippets ](https://marketplace.visualstudio.com/items?itemName=gurayyarar.expressjs-4-snippets)
 
-[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+- [Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
 
-[REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+- [VSCode ReactJS Code Snippets Cheat Sheet](https://cheatography.com/mend0za/cheat-sheets/vscode-reactjs-code-snippets/)
 
-[npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+- [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
-[JavaScript Booster](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster)
+- [Fullstack React/React Native snippets](https://marketplace.visualstudio.com/items?itemName=walter-ribeiro.full-react-snippets)
+- [node-snippets](https://marketplace.visualstudio.com/items?itemName=chris-noring.node-snippets)
+- [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
-[TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+- [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
-[Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 
-[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+- [JavaScript Booster](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster)
 
-[Short JS Doc](https://marketplace.visualstudio.com/items?itemName=myax.short-js-doc)
+- [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 
-[Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
-[Node TDD](https://marketplace.visualstudio.com/items?itemName=prashaantt.node-tdd)
+- [Short JS Doc](https://marketplace.visualstudio.com/items?itemName=myax.short-js-doc)
 
-[DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+
+- [Node TDD](https://marketplace.visualstudio.com/items?itemName=prashaantt.node-tdd)
+
+- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 
