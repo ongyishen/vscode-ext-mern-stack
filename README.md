@@ -16,3 +16,26 @@ Great VSCode Extensions for MERN Stack Development
 [Fullstack React/React Native snippets](https://marketplace.visualstudio.com/items?itemName=walter-ribeiro.full-react-snippets)
 
 [node-snippets](https://marketplace.visualstudio.com/items?itemName=chris-noring.node-snippets)
+
+[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+
+[REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+
+[npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+
+[JavaScript Booster](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster)
+
+[TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+
+[Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+
+[Short JS Doc](https://marketplace.visualstudio.com/items?itemName=myax.short-js-doc)
+
+[Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+
+[Node TDD](https://marketplace.visualstudio.com/items?itemName=prashaantt.node-tdd)
+
+[DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+
