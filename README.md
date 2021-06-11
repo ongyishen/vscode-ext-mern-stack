@@ -10,3 +10,9 @@ Great VSCode Extensions for MERN Stack Development
 [Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
 
 [VSCode ReactJS Code Snippets Cheat Sheet](https://cheatography.com/mend0za/cheat-sheets/vscode-reactjs-code-snippets/)
+
+[ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+
+[Fullstack React/React Native snippets](https://marketplace.visualstudio.com/items?itemName=walter-ribeiro.full-react-snippets)
+
+[node-snippets](https://marketplace.visualstudio.com/items?itemName=chris-noring.node-snippets)
