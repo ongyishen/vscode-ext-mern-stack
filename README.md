@@ -3,7 +3,7 @@ Great VSCode Extensions for MERN Stack Development
 
 ## Donation
 
-If this project helped you reduce time to develop, please consider buying me a cup of coffee :)
+If this list helped you reduce time to develop, please consider buying me a cup of coffee :)
 
 <a href="https://www.buymeacoffee.com/ongyishen" 
 target="_blank">
@@ -42,6 +42,14 @@ alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box
 - [Short JS Doc](https://marketplace.visualstudio.com/items?itemName=myax.short-js-doc)
 
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+
+- [Auto-Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+
+- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 
 - [Node TDD](https://marketplace.visualstudio.com/items?itemName=prashaantt.node-tdd)
 
